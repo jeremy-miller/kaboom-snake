@@ -1,2 +1,4 @@
-# snake-kaboom
-Snake game in Kaboom.js
+# Snake
+Snake game in [Kaboom.js](https://kaboomjs.com/), based on [this](https://docs.replit.com/tutorials/21-build-snake-with-kaboom) tutorial.
+
+Implemented on Repl.it.
